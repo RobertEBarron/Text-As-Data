@@ -1,0 +1,3 @@
+document,raw_negative,raw_positive,raw_net_sent,tfidf_negative,tfidf_positive,tfidf_net_sent
+Circle_of_Commerce,255,582,327,45.75655934092514,32.81226952737395,-12.944289813551194
+Free_Trade,278,513,235,54.787459210844574,40.94007941030144,-13.84737980054313
